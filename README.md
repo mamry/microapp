@@ -21,6 +21,9 @@ Install Skaffold
 https://skaffold.dev/docs/install/
 
 
+In source code:
+Go to infra/k8s folder and change mubdock which is the docker id to your docker id
+
 Then from your terminal change to project directory
 Type \: skaffold dev
 
