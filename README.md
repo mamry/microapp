@@ -4,7 +4,7 @@ Welcome to Microsercies application created with Node.js & react.
 
 
 To run the program: 
-Watch from the middle of this Youtube video 
+Watch from the middle of this Youtube video: https://youtu.be/mtzyLJyumq8  
 
 or follow this: 
 
